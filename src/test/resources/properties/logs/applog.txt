@@ -1,0 +1,13 @@
+INFO    2022-01-18 19:58:39,212 [main] devpinoyLogger  - Config properties loaded !!!
+INFO    2022-01-18 19:58:39,214 [main] devpinoyLogger  - OR properties loaded !!!
+INFO    2022-01-18 19:58:55,643 [main] devpinoyLogger  - Launching Chrome !!!
+INFO    2022-01-18 19:59:01,417 [main] devpinoyLogger  - Navigated to : https://oml.empoweredmargins.com/omlempowereddirectory/public/index.php
+INFO    2022-01-18 19:59:01,900 [main] devpinoyLogger  - typing in an Element : username_ID entered the value as : testing
+INFO    2022-01-18 19:59:02,020 [main] devpinoyLogger  - typing in an Element : password_XPATH entered the value as : emtest123
+INFO    2022-01-18 19:59:14,990 [main] devpinoyLogger  - Clicking on an Element : loginSubmitBtn_CSS
+INFO    2022-01-18 19:59:15,016 [main] devpinoyLogger  - Finding an Element : firstName_XPATH
+INFO    2022-01-18 19:59:17,188 [main] devpinoyLogger  - Selecting an Element : memberTypeCode_XPATH selected the value as : Cities
+INFO    2022-01-18 19:59:17,311 [main] devpinoyLogger  - Clicking on an Element : submitOmlDrirectory_XPATH
+INFO    2022-01-18 19:59:17,441 [main] devpinoyLogger  - Clicking on an Element : clear_XPATH
+INFO    2022-01-18 19:59:17,540 [main] devpinoyLogger  - Clicking on an Element : welcomeEmpoweredMarginsBtn_XPATH
+INFO    2022-01-18 19:59:19,016 [main] devpinoyLogger  - Clicking on an Element : logout_XPATH
